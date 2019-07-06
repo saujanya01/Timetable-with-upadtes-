@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4127685374",
+    "firebase_url": "https://eee-updates.firebaseio.com",
+    "project_id": "eee-updates",
+    "storage_bucket": "eee-updates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4127685374:android:bae84776f76c0374",
+        "android_client_info": {
+          "package_name": "com.example.eee_sem_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4127685374-o8dnjp9vv4rn33i0m3m272n3dg93eqns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eee_sem_5",
+            "certificate_hash": "0205bb7e46e02e53df5ca9b25f0c50ba9bd17ad6"
+          }
+        },
+        {
+          "client_id": "4127685374-76qvre439bjt0lasihbh7e6mmss0n9ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0bx45nhLUFNRi3jt14P9wwfnDrn__xTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4127685374-76qvre439bjt0lasihbh7e6mmss0n9ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
